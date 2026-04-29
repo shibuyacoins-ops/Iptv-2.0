@@ -1,5 +1,4 @@
 #EXTM3U
-
 # ===== MAROC =====
 #EXTINF:-1 group-title="Maroc",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula/hls_snrt/index.m3u8
