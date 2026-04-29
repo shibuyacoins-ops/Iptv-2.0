@@ -1,0 +1,47 @@
+#EXTM3U
+
+# ===== MAROC =====
+#EXTINF:-1 group-title="Maroc",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula/hls_snrt/index.m3u8
+
+#EXTINF:-1 group-title="Maroc",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arryadia/hls_snrt/index.m3u8
+
+#EXTINF:-1 group-title="Maroc",Athaqafia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/athaqafia/hls_snrt/index.m3u8
+
+#EXTINF:-1 group-title="Maroc",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+
+#EXTINF:-1 group-title="Maroc",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1 group-title="Maroc",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight/hls_snrt/index.m3u8
+
+
+# ===== ALGÉRIE =====
+# (pas de flux direct stable gratuit)
+#EXTINF:-1 group-title="Algérie",ENTV (Site officiel)
+https://www.entv.dz/
+
+
+# ===== FRANCE (ARABE) =====
+#EXTINF:-1 group-title="France",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master.m3u8
+
+
+# ===== NEWS ARABE =====
+#EXTINF:-1 group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+
+# ===== SPORT =====
+#EXTINF:-1 group-title="Sport",Arryadia (Maroc)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arryadia/hls_snrt/index.m3u8
